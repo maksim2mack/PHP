@@ -1,0 +1,6 @@
+div .panel-heading > a {
+    font-weight: bold;
+    padding-left: 3%;
+    font-size: 16px;
+    color: #2D83E3;
+}

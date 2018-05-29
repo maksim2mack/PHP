@@ -1,0 +1,16 @@
+div.contacts{
+  font-size: 20px;
+}
+div.contacts a{
+  font-size: 20px;
+  font-weight: bold;
+  color: black;
+}
+div.contacts a:hover{
+  color: #1c57fd;
+}
+div.form-send>form{
+  border-radius: 5px;
+  border: 1px solid #7e7e86;
+  background-color: #f5f5ff;
+}
